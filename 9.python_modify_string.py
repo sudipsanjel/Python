@@ -37,6 +37,11 @@ print("PYTHON".replace("P","K"))
 #Split String
 e = "my,name,is,sudip"
 print(e.split(","))
-print("my,name".split("y"))
+print("my,name".split(","))
+#NOTE: we can also use character to split the string
+
+#####################################################################
+
+
 
 

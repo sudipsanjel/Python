@@ -54,7 +54,7 @@ for x in x:
 
 #both are same
 
-############################################################################################################
+############################################################################################
 
 #String Length
 #To get length opf the string we use len() function 
@@ -65,7 +65,7 @@ print(len(x))
 x = 'I am learning python'
 print(len(x))
 #can print length of lond strings 
-############################################################################################################
+############################################################################################
 
 #Check String
 #it is used to check if the certain character and string is presented in the string
@@ -77,7 +77,7 @@ print("sudip" in x) #IT gives either true of false value
 if 'sanjel' in x:
     print('YES sanjel is in the sentence')
 
-############################################################################################################
+###############################################################################################
 #if not is also used like in
 
 print("sanjel" not in x)
@@ -87,7 +87,4 @@ if 'hello' not in x:
   print("hello is not in the string")
 #same as in but it use not (opposite condition)
 
-############################################################################################################
-
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+####################################################################################### 

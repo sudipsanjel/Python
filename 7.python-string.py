@@ -85,3 +85,9 @@ print("sanjel" not in x)
 #using if
 if 'hello' not in x:
   print("hello is not in the string")
+#same as in but it use not (opposite condition)
+
+############################################################################################################
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               

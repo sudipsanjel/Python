@@ -31,13 +31,13 @@ func2()
 # we can create global variable inside function by global key word
 
 def sudip():
-    global x 
+    global x  #creating global variable inside function
     x = 'sudip'
     print(x)
 
 sudip()
 
 def sanjel():
-    print(x)
+    print(x) #accessing the global variable created inside the function
 
 sanjel()

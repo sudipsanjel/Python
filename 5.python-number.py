@@ -76,5 +76,6 @@ import random
 
 print(random.randrange(1,10))
 
-print(random.sudip(1,100))
+print(random.randrange(1,100))
+
     

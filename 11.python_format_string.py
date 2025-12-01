@@ -27,5 +27,10 @@ value = 3.141527
 print(f"value of pi is {value:.2f}")
 #It print only 2 decimal points
 print(f"using negative {value:+}")
+print(f"using negative {value:-}") #by defult is 3.141527
+
+
+#####################################################################
+
 
 

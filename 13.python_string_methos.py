@@ -312,3 +312,6 @@ print(txt.upper())
 #Fills the string with a specified number of 0 values at rhe beginning.
 txt = '50'
 print(txt.zfill(10))
+
+
+########################################################################

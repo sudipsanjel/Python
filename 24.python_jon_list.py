@@ -13,7 +13,8 @@ print(list1)
 list1 = ["apple","ball","cat"]
 list2 = [1,4,2,6]
 
-list3 =[]
 for x in list1:
     list2.append(x)
 print(list2)
+
+########################################################################

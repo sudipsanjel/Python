@@ -20,5 +20,6 @@ print(list1)
 #clear method clear all the list element
 list1.clear()
 print(list1)
+#list1 is empty
 
 ########################################################################
